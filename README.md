@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Red+Team+%26+Penetration+Testing;Python+Developer;Continuous+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Red+Team+%26+Penetration+Testing;Python+Developer;Continuous+Learner" />
 </p>
 
 ---
@@ -27,7 +27,6 @@ I actively improve my skills through platforms such as HackerOne and TryHackMe.
 - Received certificates and participation acknowledgements from ECSC
 - Holds a diploma confirming participation in the nationwide onsite CTF competition organized under Akademia_CYBER.MIL
 - Practicing offensive security techniques
-- Building Python cybersecurity-related projects
 
 ---
 
@@ -48,14 +47,6 @@ A Python project using webcam movement detection.
 **Technologies:**
 - Python 3.11.9
 - MediaPipe 0.10.9
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kennen900&show_icons=true&theme=default" />
-</p>
 
 ---
 
