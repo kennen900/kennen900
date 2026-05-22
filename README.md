@@ -23,6 +23,9 @@ I actively improve my skills through platforms such as HackerOne and TryHackMe.
 ## Certifications & Learning
 
 - Completed the TryHackMe Penetration Tester learning path
+- Participated in Cisco cybersecurity courses and earned cybersecurity certificates
+- Received certificates and participation acknowledgements from ECSC
+- Holds a diploma confirming participation in the nationwide onsite CTF competition organized under Akademia_CYBER.MIL
 - Practicing offensive security techniques
 - Building Python cybersecurity-related projects
 
