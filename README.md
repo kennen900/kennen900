@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=I+break+stuff+professionally+%F0%9F%98%8E;Future+Red+Teamer;Python+Enjoyer;TryHackMe+Grinder;HackerOne+Goblin" />
 </p>
-
+---
 # 👋 Hey, I'm kennen
 
 ```diff
